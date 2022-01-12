@@ -10,7 +10,7 @@ namespace JenkinsMsTest
         {
             Animal animal = new Animal();
             int expectedNumber = 5;
-            int number = animal.GetNumberOfLegs(expectedNumber);
+            int number = animal.GetNumberOfLegs(expectedNumber+1);
             Assert.AreEqual(expectedNumber, number);
         }
     }
