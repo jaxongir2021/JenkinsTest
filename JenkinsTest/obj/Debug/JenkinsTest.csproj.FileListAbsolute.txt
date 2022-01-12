@@ -1,0 +1,13 @@
+C:\Users\пк\source\repos\JenkinsTest\JenkinsTest\bin\Debug\JenkinsTest.exe.config
+C:\Users\пк\source\repos\JenkinsTest\JenkinsTest\bin\Debug\JenkinsTest.exe
+C:\Users\пк\source\repos\JenkinsTest\JenkinsTest\bin\Debug\JenkinsTest.pdb
+C:\Users\пк\source\repos\JenkinsTest\JenkinsTest\obj\Debug\JenkinsTest.exe
+C:\Users\пк\source\repos\JenkinsTest\JenkinsTest\obj\Debug\JenkinsTest.pdb
+C:\Users\пк\source\repos\JenkinsTest\JenkinsTest\obj\Debug\JenkinsTest.csprojResolveAssemblyReference.cache
+C:\Users\Администратор.WIN-I5F8F29RSKU\Source\repos\Jenkins\Jenkins\JenkinsTest\JenkinsTest\bin\Debug\JenkinsTest.exe.config
+C:\Users\Администратор.WIN-I5F8F29RSKU\Source\repos\Jenkins\Jenkins\JenkinsTest\JenkinsTest\bin\Debug\JenkinsTest.exe
+C:\Users\Администратор.WIN-I5F8F29RSKU\Source\repos\Jenkins\Jenkins\JenkinsTest\JenkinsTest\bin\Debug\JenkinsTest.pdb
+C:\Users\Администратор.WIN-I5F8F29RSKU\Source\repos\Jenkins\Jenkins\JenkinsTest\JenkinsTest\obj\Debug\JenkinsTest.csproj.AssemblyReference.cache
+C:\Users\Администратор.WIN-I5F8F29RSKU\Source\repos\Jenkins\Jenkins\JenkinsTest\JenkinsTest\obj\Debug\JenkinsTest.csproj.CoreCompileInputs.cache
+C:\Users\Администратор.WIN-I5F8F29RSKU\Source\repos\Jenkins\Jenkins\JenkinsTest\JenkinsTest\obj\Debug\JenkinsTest.exe
+C:\Users\Администратор.WIN-I5F8F29RSKU\Source\repos\Jenkins\Jenkins\JenkinsTest\JenkinsTest\obj\Debug\JenkinsTest.pdb
