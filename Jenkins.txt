@@ -10,7 +10,7 @@ pipeline{
 		
 					dir('C:\\Repos'){
 		
-						bat("""git clone https://github.com/jaxongir2021/Jenkins.git""")
+						bat("""git clone https://github.com/jaxongir2021/JenkinsTest.git""")
 			
 							}
 		
