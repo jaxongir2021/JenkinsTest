@@ -10,7 +10,7 @@ namespace JenkinsTest
     {
         public int GetNumberOfLegs(int number)
         {
-            return number
+            return number;
         }
     }
 }
