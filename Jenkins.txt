@@ -22,7 +22,7 @@ pipeline{
 		
 				steps{
 			
-					bat('C:\\Repos\\Jenkins\\build.bat')
+					bat('C:\\Repos\\JenkinsTest\\build.bat')
 		
 			             }
 	
@@ -32,7 +32,7 @@ pipeline{
 		
 				steps{
 			
-					bat('C:\\Repos\\Jenkins\\test.bat')
+					bat('C:\\Repos\\JenkinsTest\\test.bat')
 		
 				     }
 	
