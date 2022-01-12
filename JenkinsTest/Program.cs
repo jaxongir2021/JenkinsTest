@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +10,7 @@ namespace JenkinsTest
     {
         static void Main(string[] args)
         {
-            var animal = new Animal()
+            var animal = new Animal();
             Console.WriteLine(animal.GetNumberOfLegs(4));
         }
     }
