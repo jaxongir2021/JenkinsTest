@@ -10,8 +10,8 @@ namespace JenkinsTest
     {
         static void Main(string[] args)
         {
-            var animal = new Animal();
-            Console.WriteLine(animal.GetNumberOfLegs(4))
+            var animal = new Animal()
+            Console.WriteLine(animal.GetNumberOfLegs(4));
         }
     }
 }
