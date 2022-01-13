@@ -89,9 +89,10 @@ pipeline{
 post('Email') {
       
 	always{
-        
-		emailext (attachLog: true, body: '$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!',
-		subject: 'Build report', to: 'wirthyara17@gmail.com')
+	
+        emailext attachLog: true, body: '''$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS:
+		Check console output at $BUILD_URL to view the results. ${JELLY_SCRIPT, template="html"}''', 
+		subject: '$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!', to: 'mira.with@yandex.ru'
       
 }
         
