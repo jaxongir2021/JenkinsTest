@@ -86,7 +86,7 @@ pipeline{
 }
 
   	
-post('Email') {
+post {
       
 	always{
 	
